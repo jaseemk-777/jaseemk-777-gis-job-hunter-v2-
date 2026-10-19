@@ -1,0 +1,57 @@
+sname: GIS Job Hunter V2
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7 14,23 * * *'
+      timezone: Asia/Kolkata
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gis-job-hunter-v2
+  cancel-in-progress: false
+
+jobs:
+  find-jobs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout private repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run automated job discovery (no submissions)
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_ALERTS_ENABLED: ${{ vars.GMAIL_ALERTS_ENABLED }}
+          HIMALAYAS_API_KEY: ${{ secrets.HIMALAYAS_API_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          EMAIL_ON_EMPTY: 'true'
+        run: python job_hunter.py
+      - name: Save reports to downloadable Actions artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gis-hunter-report-${{ github.run_number }}
+          path: reports/
+          if-no-files-found: warn
+          retention-days: 30
+      - name: Save deduplication IDs and private reports for next run
+        if: success()
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/seen.json reports/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update private GIS job tracker [skip ci]'
+            git push
+          fi
