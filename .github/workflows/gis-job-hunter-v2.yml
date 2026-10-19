@@ -1,4 +1,4 @@
-sname: GIS Job Hunter V2
+name: GIS Job Hunter V2
 
 on:
   workflow_dispatch:
