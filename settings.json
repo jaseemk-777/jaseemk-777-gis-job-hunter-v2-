@@ -1,0 +1,17 @@
+{
+  "description": "GIS/remote sensing/geography job search focused on India (on-site/remote/hybrid), Europe (India-eligible remote), Middle East (relocation) and worldwide remote.",
+  "sources": {
+    "remotive": true,
+    "himalayas": true,
+    "arbeitnow": true,
+    "adzuna": false,
+    "gmail_alerts": false
+  },
+  "recent_days": 7,
+  "include_over_30_days": false,
+  "minimum_fit_score": 10,
+  "arbeitnow_pages": 2,
+  "remote_keywords": ["GIS", "geospatial", "remote sensing", "satellite", "spatial analyst", "climate risk", "earth observation", "cartography"],
+  "adzuna_country_codes": ["in", "gb", "de", "fr", "nl", "au"],
+  "adzuna_searches": ["GIS analyst", "remote sensing"]
+}

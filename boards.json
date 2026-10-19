@@ -1,0 +1,23 @@
+{
+  "description": "Verified public employer ATS boards. Enable additional companies only with an employer-linked ATS slug.",
+  "boards": [
+    {
+      "company": "AiDASH",
+      "provider": "greenhouse",
+      "slug": "aidashinc",
+      "enabled": true
+    },
+    {
+      "company": "Planet",
+      "provider": "greenhouse",
+      "slug": "planetlabs",
+      "enabled": true
+    },
+    {
+      "company": "Tomorrow.io",
+      "provider": "greenhouse",
+      "slug": "tomorrow",
+      "enabled": true
+    }
+  ]
+}
