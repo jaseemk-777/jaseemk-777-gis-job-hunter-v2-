@@ -1,15 +1,15 @@
 {
-  "run_utc": "2026-10-22T14:01:57.140274+00:00",
-  "raw_fetched": 768,
-  "matched": 0,
+  "run_utc": "2026-10-22T20:44:10.542338+00:00",
+  "raw_fetched": 892,
+  "matched": 2,
   "new_leads": 0,
   "new_with_verified_recent_post_dates": 0,
   "source_notes": [
     "ATS: AiDASH: fetched 17 raw listings",
-    "ATS: Planet: fetched 122 raw listings",
+    "ATS: Planet: fetched 123 raw listings",
     "ATS: Tomorrow.io: fetched 19 raw listings",
     "Remotive: fetched 10 raw listings",
-    "ERROR Himalayas: IncompleteRead(48137 bytes read)",
+    "Himalayas: fetched 123 raw listings",
     "Arbeitnow: fetched 600 raw listings"
   ]
 }
