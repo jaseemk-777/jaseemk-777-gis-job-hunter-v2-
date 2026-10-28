@@ -1,10 +1,10 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 28 Oct 2026, 15:22 UTC
+Scan: 28 Oct 2026, 21:52 UTC
 
 - Matches now visible in supported sources: **2**
-- New to YOUR tracker: **1** (not the same as newly posted)
-- New to tracker with published dates in past 7 days: **1**
+- New to YOUR tracker: **0** (not the same as newly posted)
+- New to tracker with published dates in past 7 days: **0**
 - Original 95 lead audit: **0** exact employer+title matches; other leads require checking
 - No application forms or recruiter emails submitted.
 
@@ -12,9 +12,9 @@ Scan: 28 Oct 2026, 15:22 UTC
 
 - ATS: AiDASH: fetched 17 raw listings
 - ATS: Planet: fetched 131 raw listings
-- ATS: Tomorrow.io: fetched 18 raw listings
+- ATS: Tomorrow.io: fetched 17 raw listings
 - Remotive: fetched 11 raw listings
-- Himalayas: fetched 125 raw listings
+- Himalayas: fetched 139 raw listings
 - Arbeitnow: fetched 600 raw listings
 
 ## India: 0 newly discovered matches
@@ -29,12 +29,8 @@ Scan: 28 Oct 2026, 15:22 UTC
 ## Europe: 0 newly discovered matches
 
 
-## Other / review: 1 newly discovered matches
+## Other / review: 0 newly discovered matches
 
-- **True North Partners LLP — Germany | Working Student in Consulting | Climate Risk and Decarbonisation** · Remote job · score 21
-  - https://arbeitnow.com/jobs/companies/true-north-partners-llp/remote-germany-working-student-in-consulting-climate-risk-and-decarbonisation-frankfurt-486948
-  - Posted: 2026-10-28 | Posted in last 7 days | Remote | India remote eligibility unknown; verify
-  - Source: Arbeitnow (Europe) | Experience: Check requirements
 
 ## Important limitations
 
