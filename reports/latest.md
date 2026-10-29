@@ -1,20 +1,20 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 28 Oct 2026, 21:52 UTC
+Scan: 29 Oct 2026, 15:28 UTC
 
 - Matches now visible in supported sources: **2**
-- New to YOUR tracker: **0** (not the same as newly posted)
-- New to tracker with published dates in past 7 days: **0**
+- New to YOUR tracker: **1** (not the same as newly posted)
+- New to tracker with published dates in past 7 days: **1**
 - Original 95 lead audit: **0** exact employer+title matches; other leads require checking
 - No application forms or recruiter emails submitted.
 
 ## Source diagnostics
 
 - ATS: AiDASH: fetched 17 raw listings
-- ATS: Planet: fetched 131 raw listings
+- ATS: Planet: fetched 130 raw listings
 - ATS: Tomorrow.io: fetched 17 raw listings
-- Remotive: fetched 11 raw listings
-- Himalayas: fetched 139 raw listings
+- Remotive: fetched 12 raw listings
+- Himalayas: fetched 131 raw listings
 - Arbeitnow: fetched 600 raw listings
 
 ## India: 0 newly discovered matches
@@ -26,8 +26,12 @@ Scan: 28 Oct 2026, 21:52 UTC
 ## Middle East: 0 newly discovered matches
 
 
-## Europe: 0 newly discovered matches
+## Europe: 1 newly discovered matches
 
+- **Leads Power — Creative Strategist** · Paris · score 15
+  - https://arbeitnow.fr/jobs/companies/leads-power/creative-strategist-paris-261201
+  - Posted: 2026-10-28 | Posted in last 7 days | Remote | India remote eligibility unknown; verify
+  - Source: Arbeitnow (Europe) | Experience: Check requirements
 
 ## Other / review: 0 newly discovered matches
 
