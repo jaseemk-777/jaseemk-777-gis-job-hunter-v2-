@@ -1,6 +1,6 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 30 Oct 2026, 21:40 UTC
+Scan: 31 Oct 2026, 14:41 UTC
 
 - Matches now visible in supported sources: **0**
 - New to YOUR tracker: **0** (not the same as newly posted)
@@ -13,8 +13,8 @@ Scan: 30 Oct 2026, 21:40 UTC
 - ATS: AiDASH: fetched 18 raw listings
 - ATS: Planet: fetched 125 raw listings
 - ATS: Tomorrow.io: fetched 17 raw listings
-- Remotive: fetched 12 raw listings
-- Himalayas: fetched 117 raw listings
+- Remotive: fetched 13 raw listings
+- Himalayas: fetched 110 raw listings
 - Arbeitnow: fetched 600 raw listings
 
 ## India: 0 newly discovered matches
