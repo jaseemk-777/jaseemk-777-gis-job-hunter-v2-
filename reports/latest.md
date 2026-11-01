@@ -1,6 +1,6 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 01 Nov 2026, 15:25 UTC
+Scan: 01 Nov 2026, 21:20 UTC
 
 - Matches now visible in supported sources: **0**
 - New to YOUR tracker: **0** (not the same as newly posted)
