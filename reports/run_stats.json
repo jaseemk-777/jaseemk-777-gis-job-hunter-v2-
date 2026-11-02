@@ -1,15 +1,15 @@
 {
-  "run_utc": "2026-11-01T21:20:51.820496+00:00",
-  "raw_fetched": 882,
+  "run_utc": "2026-11-02T18:45:32.711886+00:00",
+  "raw_fetched": 902,
   "matched": 0,
   "new_leads": 0,
   "new_with_verified_recent_post_dates": 0,
   "source_notes": [
-    "ATS: AiDASH: fetched 18 raw listings",
-    "ATS: Planet: fetched 124 raw listings",
+    "ATS: AiDASH: fetched 17 raw listings",
+    "ATS: Planet: fetched 126 raw listings",
     "ATS: Tomorrow.io: fetched 17 raw listings",
     "Remotive: fetched 12 raw listings",
-    "Himalayas: fetched 111 raw listings",
+    "Himalayas: fetched 130 raw listings",
     "Arbeitnow: fetched 600 raw listings"
   ]
 }
