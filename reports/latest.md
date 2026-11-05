@@ -1,17 +1,17 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 05 Nov 2026, 16:42 UTC
+Scan: 05 Nov 2026, 22:47 UTC
 
-- Matches now visible in supported sources: **0**
-- New to YOUR tracker: **0** (not the same as newly posted)
-- New to tracker with published dates in past 7 days: **0**
+- Matches now visible in supported sources: **1**
+- New to YOUR tracker: **1** (not the same as newly posted)
+- New to tracker with published dates in past 7 days: **1**
 - Original 95 lead audit: **0** exact employer+title matches; other leads require checking
 - No application forms or recruiter emails submitted.
 
 ## Source diagnostics
 
 - ATS: AiDASH: fetched 18 raw listings
-- ATS: Planet: fetched 126 raw listings
+- ATS: Planet: fetched 123 raw listings
 - ATS: Tomorrow.io: fetched 17 raw listings
 - Remotive: fetched 10 raw listings
 - Himalayas: fetched 130 raw listings
@@ -26,8 +26,12 @@ Scan: 05 Nov 2026, 16:42 UTC
 ## Middle East: 0 newly discovered matches
 
 
-## Europe: 0 newly discovered matches
+## Europe: 1 newly discovered matches
 
+- **Uni Systems — Data Analyst** · Petten, Netherlands · score 25
+  - https://arbeitnow.nl/jobs/companies/uni-systems/remote-data-analyst-petten-38896
+  - Posted: 2026-11-05 | Posted in last 7 days | Remote | India remote eligibility unknown; verify
+  - Source: Arbeitnow (Europe) | Experience: Check requirements
 
 ## Other / review: 0 newly discovered matches
 
