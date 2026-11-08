@@ -1,5 +1,5 @@
 {
-  "run_utc": "2026-11-07T21:03:18.789372+00:00",
+  "run_utc": "2026-11-08T15:31:35.057908+00:00",
   "raw_fetched": 900,
   "matched": 1,
   "new_leads": 0,
@@ -7,8 +7,8 @@
   "source_notes": [
     "ATS: AiDASH: fetched 19 raw listings",
     "ATS: Planet: fetched 123 raw listings",
-    "ATS: Tomorrow.io: fetched 18 raw listings",
-    "Remotive: fetched 12 raw listings",
+    "ATS: Tomorrow.io: fetched 17 raw listings",
+    "Remotive: fetched 13 raw listings",
     "Himalayas: fetched 128 raw listings",
     "Arbeitnow: fetched 600 raw listings"
   ]
