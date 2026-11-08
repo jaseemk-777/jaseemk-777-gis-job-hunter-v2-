@@ -1,10 +1,10 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 08 Nov 2026, 15:31 UTC
+Scan: 08 Nov 2026, 21:19 UTC
 
 - Matches now visible in supported sources: **1**
-- New to YOUR tracker: **0** (not the same as newly posted)
-- New to tracker with published dates in past 7 days: **0**
+- New to YOUR tracker: **1** (not the same as newly posted)
+- New to tracker with published dates in past 7 days: **1**
 - Original 95 lead audit: **0** exact employer+title matches; other leads require checking
 - No application forms or recruiter emails submitted.
 
@@ -14,14 +14,18 @@ Scan: 08 Nov 2026, 15:31 UTC
 - ATS: Planet: fetched 123 raw listings
 - ATS: Tomorrow.io: fetched 17 raw listings
 - Remotive: fetched 13 raw listings
-- Himalayas: fetched 128 raw listings
+- Himalayas: fetched 127 raw listings
 - Arbeitnow: fetched 600 raw listings
 
 ## India: 0 newly discovered matches
 
 
-## Worldwide remote: 0 newly discovered matches
+## Worldwide remote: 1 newly discovered matches
 
+- **TELUS Digital — 3D Spatial Data Expert (AI Community)** · Worldwide (per platform) · score 15
+  - https://himalayas.app/companies/telus-digital/jobs/3d-spatial-data-expert-ai-community
+  - Posted: 2026-11-08 | Posted in last 7 days | Remote | Potentially India-eligible; check timezone
+  - Source: Himalayas (remote) | Experience: Check requirements
 
 ## Middle East: 0 newly discovered matches
 
