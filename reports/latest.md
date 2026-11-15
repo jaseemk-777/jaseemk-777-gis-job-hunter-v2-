@@ -1,10 +1,10 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 15 Nov 2026, 15:49 UTC
+Scan: 15 Nov 2026, 22:00 UTC
 
 - Matches now visible in supported sources: **2**
-- New to YOUR tracker: **1** (not the same as newly posted)
-- New to tracker with published dates in past 7 days: **1**
+- New to YOUR tracker: **0** (not the same as newly posted)
+- New to tracker with published dates in past 7 days: **0**
 - Original 95 lead audit: **0** exact employer+title matches; other leads require checking
 - No application forms or recruiter emails submitted.
 
@@ -26,12 +26,8 @@ Scan: 15 Nov 2026, 15:49 UTC
 ## Middle East: 0 newly discovered matches
 
 
-## Europe: 1 newly discovered matches
+## Europe: 0 newly discovered matches
 
-- **Just Hiring — Creative Strategist (m/w/d) | 100 % Remote | Fünfstelliges Monatsgehalt + Provision** · Berlin · score 15
-  - https://arbeitnow.com/jobs/companies/just-hiring/creative-strategist-100-remote-funfstelliges-monatsgehalt-provision-berlin-35580
-  - Posted: 2026-11-15 | Posted in last 7 days | Remote | India remote eligibility unknown; verify
-  - Source: Arbeitnow (Europe) | Experience: Check requirements
 
 ## Other / review: 0 newly discovered matches
 

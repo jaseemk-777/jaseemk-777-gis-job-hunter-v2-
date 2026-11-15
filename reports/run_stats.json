@@ -1,9 +1,9 @@
 {
-  "run_utc": "2026-11-15T15:49:39.678977+00:00",
+  "run_utc": "2026-11-15T22:00:06.004460+00:00",
   "raw_fetched": 899,
   "matched": 2,
-  "new_leads": 1,
-  "new_with_verified_recent_post_dates": 1,
+  "new_leads": 0,
+  "new_with_verified_recent_post_dates": 0,
   "source_notes": [
     "ATS: AiDASH: fetched 18 raw listings",
     "ATS: Planet: fetched 116 raw listings",
