@@ -1,6 +1,6 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 18 Nov 2026, 23:31 UTC
+Scan: 19 Nov 2026, 17:35 UTC
 
 - Matches now visible in supported sources: **1**
 - New to YOUR tracker: **0** (not the same as newly posted)
@@ -10,12 +10,12 @@ Scan: 18 Nov 2026, 23:31 UTC
 
 ## Source diagnostics
 
-- ATS: AiDASH: fetched 20 raw listings
-- ATS: Planet: fetched 113 raw listings
+- ATS: AiDASH: fetched 21 raw listings
+- ATS: Planet: fetched 111 raw listings
 - ATS: Tomorrow.io: fetched 19 raw listings
-- Remotive: fetched 16 raw listings
-- Himalayas: fetched 135 raw listings
-- ERROR Arbeitnow: Unterminated string starting at: line 1 column 7132927 (char 7132926)
+- Remotive: fetched 15 raw listings
+- Himalayas: fetched 136 raw listings
+- Arbeitnow: fetched 600 raw listings
 
 ## India: 0 newly discovered matches
 
