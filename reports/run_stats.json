@@ -1,15 +1,15 @@
 {
-  "run_utc": "2026-11-19T23:46:07.881006+00:00",
-  "raw_fetched": 303,
-  "matched": 2,
-  "new_leads": 0,
-  "new_with_verified_recent_post_dates": 0,
+  "run_utc": "2026-11-20T17:10:20.061979+00:00",
+  "raw_fetched": 902,
+  "matched": 3,
+  "new_leads": 1,
+  "new_with_verified_recent_post_dates": 1,
   "source_notes": [
     "ATS: AiDASH: fetched 21 raw listings",
     "ATS: Planet: fetched 111 raw listings",
-    "ATS: Tomorrow.io: fetched 19 raw listings",
-    "Remotive: fetched 15 raw listings",
-    "Himalayas: fetched 137 raw listings",
-    "ERROR Arbeitnow: Unterminated string starting at: line 1 column 6883994 (char 6883993)"
+    "ATS: Tomorrow.io: fetched 18 raw listings",
+    "Remotive: fetched 16 raw listings",
+    "Himalayas: fetched 136 raw listings",
+    "Arbeitnow: fetched 600 raw listings"
   ]
 }
