@@ -1,6 +1,6 @@
 {
-  "run_utc": "2026-11-21T16:20:28.517906+00:00",
-  "raw_fetched": 902,
+  "run_utc": "2026-11-21T22:18:31.476009+00:00",
+  "raw_fetched": 901,
   "matched": 2,
   "new_leads": 0,
   "new_with_verified_recent_post_dates": 0,
@@ -9,7 +9,7 @@
     "ATS: Planet: fetched 109 raw listings",
     "ATS: Tomorrow.io: fetched 18 raw listings",
     "Remotive: fetched 16 raw listings",
-    "Himalayas: fetched 138 raw listings",
+    "Himalayas: fetched 137 raw listings",
     "Arbeitnow: fetched 600 raw listings"
   ]
 }
