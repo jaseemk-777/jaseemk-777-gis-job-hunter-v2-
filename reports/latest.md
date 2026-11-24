@@ -1,6 +1,6 @@
 # GIS Job Hunter V2 — latest cloud scan
 
-Scan: 23 Nov 2026, 20:29 UTC
+Scan: 24 Nov 2026, 19:39 UTC
 
 - Matches now visible in supported sources: **3**
 - New to YOUR tracker: **1** (not the same as newly posted)
@@ -10,11 +10,11 @@ Scan: 23 Nov 2026, 20:29 UTC
 
 ## Source diagnostics
 
-- ATS: AiDASH: fetched 21 raw listings
-- ATS: Planet: fetched 109 raw listings
+- ATS: AiDASH: fetched 22 raw listings
+- ATS: Planet: fetched 107 raw listings
 - ATS: Tomorrow.io: fetched 18 raw listings
 - Remotive: fetched 15 raw listings
-- Himalayas: fetched 136 raw listings
+- Himalayas: fetched 133 raw listings
 - Arbeitnow: fetched 600 raw listings
 
 ## India: 0 newly discovered matches
@@ -28,9 +28,9 @@ Scan: 23 Nov 2026, 20:29 UTC
 
 ## Europe: 1 newly discovered matches
 
-- **Valkental GmbH — Creative Strategist - Video Ads für Meta (m/w/d)** · Berlin · score 15
-  - https://arbeitnow.com/jobs/companies/valkental-gmbh/creative-strategist-video-ads-fur-meta-berlin-466479
-  - Posted: 2026-11-23 | Posted in last 7 days | Remote | India remote eligibility unknown; verify
+- **nero — Social Strategist (m/w/d)** · Berlin · score 15
+  - https://arbeitnow.com/jobs/companies/nero/social-strategist-berlin-107781
+  - Posted: 2026-11-24 | Posted in last 7 days | Remote | India remote eligibility unknown; verify
   - Source: Arbeitnow (Europe) | Experience: Check requirements
 
 ## Other / review: 0 newly discovered matches

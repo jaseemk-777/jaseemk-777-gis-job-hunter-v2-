@@ -2,12 +2,12 @@
 
 No job applications or recruiter emails are sent by this program. Tailor to the actual description and verify eligibility before applying.
 
-## Valkental GmbH — Creative Strategist - Video Ads für Meta (m/w/d)
-Apply / original source: https://arbeitnow.com/jobs/companies/valkental-gmbh/creative-strategist-video-ads-fur-meta-berlin-466479
+## nero — Social Strategist (m/w/d)
+Apply / original source: https://arbeitnow.com/jobs/companies/nero/social-strategist-berlin-107781
 
 Hello Hiring Team,
 
-I am interested in the Creative Strategist - Video Ads für Meta (m/w/d) opportunity at Valkental GmbH. I have one year of professional GIS experience using QGIS, ArcGIS, Google Earth Engine, satellite imagery and spatial analysis for climate risk and disaster management, together with Python and SQL-based workflows. I would welcome the chance to discuss how I could contribute to your team.
+I am interested in the Social Strategist (m/w/d) opportunity at nero. I have one year of professional GIS experience using QGIS, ArcGIS, Google Earth Engine, satellite imagery and spatial analysis for climate risk and disaster management, together with Python and SQL-based workflows. I would welcome the chance to discuss how I could contribute to your team.
 
 Best regards,
 [Your name]
